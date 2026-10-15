@@ -2,7 +2,7 @@
 
 Hardening a fresh Ubuntu Server 26.04 install from a **Lynis hardening index of 63 to 82** (+19 points), with every change verified and documented.
 
-![Final Lynis score](14-final-lynis-score.png)
+![Final Lynis score](project-a-server/14-final-lynis-score.png)
 
 ## Results
 
